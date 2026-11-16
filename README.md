@@ -1,9 +1,9 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 DATE :05/10/2026
-NAME : AKSHA
-REFERENCE NO: 26014076
-## AIMe
+NAME : AKSHAYA
+REFERENCE NO: 26018325
+## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
 
